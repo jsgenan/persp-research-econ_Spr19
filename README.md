@@ -83,7 +83,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | May  8 | W | Dynamic programming with interpolation | [Notebk](Notebooks/DynProgIntpl/DynProgIntpl.ipynb) | [PS2](Assignments/PS2/PS2.pdf) |
 >>>>>>> upstream/master
 | May 13 | M | Dynamic programming with interpolation |  |  |
-| May 15 | W | Overlapping generations models | Notes | PS3 |
+| May 15 | W | Overlapping generations models | [Notes](Notes/OGtext_ch02.pdf) | [PS3](Assignments/PS3/PS3.pdf) |
 | May 20 | M | Overlapping generations models |  |  |
 | May 22 | W | Workshop papers/office visits |   | Methods/initial results section |
 | May 27 | M | **No class (Memorial Day Holiday)** |  |  |
